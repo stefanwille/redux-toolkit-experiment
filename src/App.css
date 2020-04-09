@@ -1,6 +1,17 @@
 .App {
-  margin: 2rem;
 }
 
-.App__DeleteOutlined {
+.ant-layout {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  height: 100vh;
+}
+
+.ant-layout-header {
+  background-color: white;
+  margin-bottom: 3rem;
+}
+
+.ant-layout-content {
+  margin-bottom: 3rem;
 }
